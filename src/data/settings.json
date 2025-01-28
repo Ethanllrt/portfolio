@@ -1,22 +1,23 @@
 {
     "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
+    "lastname": "Lallauret",
+    "firstname": "Ethan",
     "portrait" : "avatar.jpg",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "intro": "Salut, moi c'est Ethan. Aujourd'hui, je suis en première année en MMI.",
+    "biography": "Enchantée je suis Ethan Lallauret, j’ai 18 ans, originaire de Carhaix, basé actuellement sur Lannion. J’ai choisi l’IUT Métiers du Multimédia et de l’Internet car j’ai toujours adoré depuis petit le numérique mais aussi car le multimédia permet d’exprimer mon côté créatif, que ce soit à travers la création de contenu numérique ou avec la photographie. Je suis quelqu’un de déterminé, ambitieux et toujours prêt à apprendre. J’adore le sport et pour moi c’est bien plus qu’un passe-temps c’est une philosophie de vie basée sur la discipline et le dépassement de soi. J’ai toujours été passionné par l’automobile, le design et les voyages c’est pour cela que dans l’avenir, mes ambitions sont de combiner mes intérêts pour l’automobile et le multimédia avec ma volonté de toujours repousser mes limites, que ce soit dans le monde personnel ou professionnel. En route vers de nouveaux défis, je suis à la recherche d’une alternance afin de me professionnaliser et de développer mes compétences en multimédia tout en apportant mon dynamisme et ma rigueur. Passionné par l'automobile et le multimédia, je suis déterminé à mettre mon engagement au service d'une entreprise innovante dans ce domaine..",
     "cv" : "CV.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
             "school" : "IUT de Lannion, Université de Rennes",
-            "start" : 2023,
-            "end" : 2026
+            "start" : 2024,
+            "end" : 2027
         },
         {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
-            "start" : 2023
+            "name" : "Bac STI2D, option Énergie et Environnement",
+            "school" : "Lycée Paul-Sérusier, Carhaix",
+            "start" : 2023,
+            "end" : 2024
         }
     ],
     "interests": [
@@ -108,13 +109,13 @@
     ],
     "contacts": [
         {"name" : "Instagram", 
-        "url" : "https://instagram.com",
+        "url" : "https://instagram.com/ethanllrt",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
-        "url" : "https://linkedin.com",
+        "url" : "https://www.linkedin.com/in/ethan-lallauret-925079349/",
         "icon" : "linkedin.svg"},
         {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
+        "url" : "mailto:ethan.lallauret@etudiant.univ-rennes.fr",
         "icon" : "mail.svg"}
     ]
 }
